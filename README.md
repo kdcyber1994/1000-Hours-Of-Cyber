@@ -194,8 +194,7 @@ The next phase is focused on continued depth and refinement:
 The momentum is strong, and the compounding effect of structured, deliberate practice is becoming increasingly clear.
 If you’re in the offensive security space, let's connect.
 
-<img width="1584" height="519" alt="image" src="https://github.com/user-attachments/assets/143e6bd4-05fd-4225-aaa3-8c07720b80cb" />
-
+<img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/dcb39477-5c26-4070-a10a-f91b65fb347b" />
 
 ## 800 Hours of Cyber
 
