@@ -2,13 +2,20 @@
 
 ## 100 Hours of Cyber
 
-Today, I’d like to share a project I’ve been quietly developing in the background—a personal initiative that I track day-by-day, week-by-week, month-by-month, and even hour-by-hour. I’m proud to unveil my 1000 Hours of Cyber personal growth project.
+Today, I’d like to share a project I’ve been quietly developing in the background—a personal initiative that I track day-by-day, week-by-week, and hour-by-hour. I’m proud to unveil my 1000 Hours of Cyber personal growth project.
 
-I must admit, I was initially hesitant to share this project publicly. The reluctance stemmed from receiving discouraging feedback regarding my perceived cybersecurity skillset. Rather than allowing that criticism to define my journey, I chose to use it as fuel—a catalyst to prove that disciplined, focused learning is the most effective response to narrow judgments.
+This initiative was born out of a commitment to radical transparency and technical mastery, ensuring that my hands-on skills match the high standards required in senior security roles. I believe that disciplined, focused learning is the most effective way to build a foundation that is both deep and unshakeable.
 
-Over the first 100 hours, I have engaged in intensive training using resources such as Josh Madakor’s Cyber Range—where I refined my skills in Vulnerability Management, Remediation, SIEM, and Threat Hunting—alongside comprehensive courses from TryHackMe. The Pre-Security pathway provided a robust foundation through hands-on labs and essential exercises, while the Cybersecurity 101 path broadened my understanding of both offensive and defensive domains by exploring computer networking, cryptography, and the fundamentals of Windows, Active Directory, and Linux, along with practical tools and techniques. Most recently, the Cybersecurity Engineering pathway has deepened my grasp of designing and implementing secure systems and infrastructures. 
+To establish this foundation, I dedicated the first 100 hours to intensive training across both offensive and defensive domains:
 
-While I still feel the impact of that initial criticism, my progress now speaks for itself—leaving no questions about my capabilities.
+Vulnerability Management & Threat Hunting: Utilizing Josh Madakor’s Cyber Range, I refined my skills in Vulnerability Management, Remediation, SIEM, and Threat Hunting. This provided a practical look at how enterprise environments are monitored and defended.
+
+Offensive Fundamentals: Through TryHackMe’s Pre-Security and Cybersecurity 101 pathways, I built a robust foundation in Computer Networking, Cryptography, and the fundamentals of Windows, Active Directory, and Linux.
+
+Security Architecture: Most recently, the Cybersecurity Engineering pathway has deepened my grasp of designing and implementing secure systems and infrastructures.
+
+While this journey is a personal challenge, the progress speaks for itself. I am moving beyond theoretical concepts into the realm of instinctive, repeatable technical skill.
+
 
 <img width="806" height="551" alt="image" src="https://github.com/user-attachments/assets/75aa5203-cfbe-4157-862a-4a20acbf428a" />
 <img width="1538" height="475" alt="image" src="https://github.com/user-attachments/assets/71585bbe-3594-4912-a1a1-d80aa0dabc8c" />
