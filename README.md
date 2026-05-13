@@ -1,4 +1,14 @@
 # 1000 HOURS OF CYBER
+## **Milestone Navigation**
+* [Phase 1: Foundations (0-100 Hours)](#100-hours-of-cyber)
+* [Phase 2: Transition (100-200 Hours)](#200-hours-of-cyber)
+* [Phase 3: Building the Mindset (200-300 Hours)](#300-hours-of-cyber)
+* [Phase 4: Structured Progress (300-400 Hours)](#400-actually-451-hours-of-cyber)
+* [Phase 5: Repeatable Processes (400-500 Hours)](#500-hours-of-cyber)
+* [Phase 6: Pivoting Mastery (500-600 Hours)](#600-hours-of-cyber)
+* [Phase 7: Technical Depth (600-700 Hours)](#700-hours-of-cyber)
+* [Phase 8: Accountability (700-800 Hours)](#800-hours-of-cyber)
+* [Phase 9: The Second Brain (800-900 Hours)](#900-hours-of-cyber)
 
 ## 100 Hours of Cyber
 
