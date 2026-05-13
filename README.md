@@ -10,6 +10,10 @@ Over the first 100 hours, I have engaged in intensive training using resources s
 
 While I still feel the impact of that initial criticism, my progress now speaks for itself—leaving no questions about my capabilities.
 
+<img width="806" height="551" alt="image" src="https://github.com/user-attachments/assets/75aa5203-cfbe-4157-862a-4a20acbf428a" />
+<img width="1538" height="475" alt="image" src="https://github.com/user-attachments/assets/71585bbe-3594-4912-a1a1-d80aa0dabc8c" />
+
+
 ## 200 Hours of Cyber
 
 I’ve reached 200 hours in my hashtag#1000HoursofCyber journey—where theoretical concepts turned into real-world security operations. I’ve automated CI/CD pipeline scans, fine-tuned SIEM alert logic to reduce noise, and built comprehensive incident response playbooks. Now, as I step into SOC Level 2, I’ll deepen my detection, threat-hunting, and response capabilities—foundational expertise that will inform my long-term penetration testing focus over the next 800 hours.
@@ -27,6 +31,8 @@ SOC Level 1: fine-tuned SIEM alerts, performed deep log analysis, and crafted en
 
 Now, I’m moving into SOC Level 2 on TryHackMe and have kicked off Hack The Box’s Junior Cybersecurity Analyst pathway. This HTB track will bridge me into their labs and prepare me for the more advanced CPTS coursework ahead. Here’s to the next 800 hours of building toward a strong pentesting skill set! 
 💪🔐🚀
+
+<img width="2048" height="750" alt="image" src="https://github.com/user-attachments/assets/4f24a41a-d0a2-43a8-9642-4afedffff87e" />
 
 
 ## 300 Hours of Cyber
@@ -49,7 +55,10 @@ The technical progress is exciting - but the real shift is in discipline:
 
 700 hours remain. More labs. More exploits. More refinement. Because in offensive security, skill is earned - one exploit, one shell, one root at a time.
 
-## 400 Hours of Cyber
+<img width="1461" height="700" alt="image" src="https://github.com/user-attachments/assets/4a864e95-314e-4761-86c5-b003fdfd9213" />
+
+
+## 400 (Actually 451) Hours of Cyber
 
 🔥 Cybersecurity Journey Update: 451 / 1000 Hours 🔥
 When I set out to dedicate 1,000 hours to cybersecurity training, my mindset was simple: if I put in the hours, I’d come out the other side skilled and field‑ready.
@@ -65,6 +74,8 @@ Highlights so far:
 🔄 Mindset shift: The hours are the metric, but the learning and development are the true outcome.
 
 I’m almost halfway to 1,000 hours. The grind is real, the lessons are tough, and the journey is shaping me every step of the way.
+
+<img width="2048" height="820" alt="image" src="https://github.com/user-attachments/assets/698ea1d8-6309-4762-9e6d-e77f6cc5e374" />
 
 ## 500 Hours of Cyber
 
@@ -98,6 +109,9 @@ This journey has taken me from Cybersecurity foundations through the offensive w
 
 500 hours down. 500 to go. The grind continues - one exploit, one shell, one root at a time. But now, it’s not just about hours logged. It’s about becoming the kind of professional who can walk into any environment, break it down systematically, and prove that persistence and discipline win every time.
 
+<img width="2048" height="820" alt="image" src="https://github.com/user-attachments/assets/b5bbfd47-6e99-46fd-937e-c9568c76ab11" />
+
+
 ## 600 Hours of Cyber
 
 🏆 600 Hours Reached: Pivoting Module Conquered 🏆
@@ -122,6 +136,9 @@ The skills assessment brought all of this together. In under 2 hours, I successf
 
 🎯 What’s next
 Over the next 100 hours, my focus is on continuing through the CPTS coursework while applying these skills across Hack The Box labs. Each new module will be paired with practical box work to reinforce concepts and ensure they translate into hands‑on success. My goal is to push CPTS progress, expand my offensive security toolkit, and keep building toward the 1,000‑hour milestone with consistent practice and application.
+
+<img width="2048" height="756" alt="image" src="https://github.com/user-attachments/assets/35764062-abc5-4256-8408-a5a909db0243" />
+
 
 ## 700 Hours of Cyber
 
@@ -170,6 +187,9 @@ The next phase is focused on continued depth and refinement:
 The momentum is strong, and the compounding effect of structured, deliberate practice is becoming increasingly clear.
 If you’re in the offensive security space, let's connect.
 
+<img width="1584" height="519" alt="image" src="https://github.com/user-attachments/assets/143e6bd4-05fd-4225-aaa3-8c07720b80cb" />
+
+
 ## 800 Hours of Cyber
 
 🏆 800 Hours of Cyber: Accountability, Technical Depth, & the Final Stretch🏆
@@ -200,6 +220,8 @@ The finish line for this initial project is in sight. Here is the plan for the f
 
 If you’re currently in the CPTS trenches or in the offensive security space, let’s connect.
 
+<img width="1583" height="534" alt="image" src="https://github.com/user-attachments/assets/989ccf3d-a8d3-4c8e-a735-77a922517872" />
+
 
 ## 900 Hours of Cyber
 
@@ -217,6 +239,7 @@ While I am deep in the technical weeds of the CPTS, I also took a moment to rene
 
 I have 100 hours left to reach my initial goal.
 
+<img width="1971" height="1081" alt="image" src="https://github.com/user-attachments/assets/c55347b8-0144-4ebc-a189-bc5a2b3a18b8" />
 
 
 
